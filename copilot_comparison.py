@@ -2,7 +2,7 @@ import pandas as pd
 
 def head_to_head_comparison(team1, team2, match_data):
     """
-    Compare two cricket teams head-to-head based on matches they played against each other.
+    Compare two cricket teams head-to-head based on overall matches they played against each other.
 
     Args:
         team1 (str): Name of the first team.
